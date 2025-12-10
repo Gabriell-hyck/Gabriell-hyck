@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Yee👋</h1>
 
 ###
 
@@ -26,11 +26,11 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">orang cirebon<br><br>- 🔭 perintis<br>- 📚 anak smp<br>- ⚡ suka roblox dan minekrep</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 BAHASA PEMROGRAMAN DAN ALAT KU</h3>
 
 ###
 
