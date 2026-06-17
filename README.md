@@ -112,7 +112,7 @@ Response rate: 100% | Latency: low
 
 ![Terminal Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:050505&height=2&section=footer)
 
-<sub>© 2026 gabrielldewaruci // built with ☝️🤓 + Americano triple shot</sub>
+<sub>© 2024 gabrielldewaruci // built with ☝️🤓 + Americano triple shot</sub>
 
 <br/>
 
