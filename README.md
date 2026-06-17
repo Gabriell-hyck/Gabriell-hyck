@@ -13,17 +13,17 @@
 <br/>
 
 ```bash
-gabriell@github:~$ cat about.json
+$root@gabriell:~$ cat about.json
 ```
 
 ```json
 {
-  "name": "Gabriell Dewaruci",
-  "role": "Full-Stack Developer & Bot Engineer",
+  "name": "Gabriel Ananda Dewaruci",
+  "role": "Another Programmer",
   "location": "Indonesia 🇮🇩",
-  "focus": ["Web Dev", "Discord Bots", "Automation", "IoT"],
-  "currently_building": "∆NTRAX Fishing RPG Bot",
-  "status": "available_for_collab: true"
+  "tags": ["spanma", "hacker", "programmer", "IoT"],
+  "Captcha Verifed": "No i'm not Robot",
+  "status": "Human: true"
 }
 ```
 
@@ -49,11 +49,11 @@ gabriell@github:~$ cat about.json
 ### `▸ ping gabriell --collab`
 
 ```bash
-you@internet:~$ ping gabriell --collab
+$root@gabriell:~$ ping gabriell --trash
 PING gabrielldewaruci: 56 bytes of data.
-Reply: Open to collaborations ✓
-Reply: Available for freelance ✓
-Reply: Looking for cool projects ✓
+Reply: spanma lovers🤍🤭🥰 ✓
+Reply: cat lovers😍😸 ✓
+Reply: programmer pemula✌️😹 ✓
 --- ping statistics ---
 Response rate: 100% | Latency: low
 ```
@@ -64,8 +64,8 @@ Response rate: 100% | Latency: low
 
 <div align="center">
 
-<a href="https://github.com/Gabriell-hyck/Antraxbot-fish">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriell-hyck&repo=Antraxbot-fish&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00FF41&text_color=4D7A57&icon_color=00FF41" />
+<a href="https://github.com/Gabriell-hyck/Antraxbotfish">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriell-hyck&repo=Antraxbotfish&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00FF41&text_color=4D7A57&icon_color=00FF41" />
 </a>
 <a href="https://github.com/Gabriell-hyck/biodata_web">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriell-hyck&repo=biodata_web&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00FF41&text_color=4D7A57&icon_color=00FF41" />
