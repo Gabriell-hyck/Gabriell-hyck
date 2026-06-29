@@ -13,13 +13,13 @@
 <br/>
 
 ```bash
-$root@gabriell:~$ cat about.json
+$hitori@gabriell:~$ cat about.json
 ```
 
 ```json
 {
   "name": "Gabriel Ananda Dewaruci",
-  "role": "Another Programmer",
+  "role": "SMPN5 Programmer",
   "location": "Indonesia 🇮🇩",
   "tags": ["spanma", "hacker", "programmer", "IoT"],
   "Captcha Verifed": "No i'm not Robot",
